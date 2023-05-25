@@ -43,6 +43,12 @@ Things that went well was that I got lights to turn on.
 
 # Discussion
 
+There are a couple reasons that the soldering connections were not well. The first could have been the temperature of the solder. During the project I kept it at 450°F becuase that is the max temperature. Most soldering on copper is done between 350°F to 600°F. If the solder went up to a higher temperature I would have tried this.
+
+The second thing that could have led to the problem was that joints were solder starved. This means that I did not put enough solder on the joints. This could likely been from insufficient heat applied to the lead, resulting in a poor connection. 
+
+The final thing that could have led to the problem was insufficient flux. Flux aids in soldering by removing oxide films which form on the surface of metals being soldered. It increases the wetting ability of the solder, causing it to flow more uniformly over surfaces without balling up.
+
 During this project I learned that soldering is very hard and takes a long time to learn and be good at. I also learned that hot glue can save anything. I was struggling for a very long time trying to get the solder connections to stick better and decided that hot glue would be great. Finally I learned that you should not be too ambitious with your first product. You need to start off very small and if you have more time slowly make the project better. 
 
 Next in the project I would create more layers and try and connect them, now that I hot glued that connections and they are stronger. 
